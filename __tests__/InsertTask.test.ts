@@ -1,3 +1,5 @@
+import "dotenv/config";
+
 import InsertTask from "../src/application/usecases/InsertTask";
 import FirestoreAdapter from "../src/resources/FirestoreAdapter";
 import TaskRepositoryDatabase from "../src/resources/TaskRepository";
