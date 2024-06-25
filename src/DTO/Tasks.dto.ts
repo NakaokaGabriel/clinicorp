@@ -11,9 +11,9 @@ export type InputTaskDTO = {
 }
 
 export type OutputTaskDTO = {
-  id: string;
+  id?: string;
   description: string;
   responsable: string;
   status: string;
-  computer: string;
+  computer?: string;
 }

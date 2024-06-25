@@ -22,7 +22,7 @@ automaticamente o nome do computador)
 executar o projeto
 
 
-## Prerequisites
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (Versão 20)
 - npm, yarn ou pnpm
